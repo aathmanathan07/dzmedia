@@ -1,0 +1,399 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Shadows+Into+Light&display=swap');
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    /* border: 1px solid red; */
+}
+
+::selection{
+  background-color: greenyellow;
+}
+.aboutContainer{
+    background-color: #EBEBEB;
+    padding: 0px 200px;
+}
+.aboutpic {
+    text-align: center;
+
+}
+
+.dmed h4{
+    font-family: "Alexandria", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #949494;
+  
+  }
+  .dmed h5{
+    font-family: "Alexandria", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #949494;
+    text-align: left;
+  
+  }
+  .dmed{
+    padding-bottom: 30px;
+  }
+  .dmed p{
+  font-family:"Droid Serif", serif; 
+  font-size: 13px;
+  font-weight: 400;
+  text-align: left;
+  color: #949494;
+  
+  }
+  .dmed p span{
+    font-family:"Droid Serif", serif; 
+   font-size: 13px;
+   font-weight: 400;
+   
+  
+  }
+  .dmad h4{
+    font-family: "Alexandria", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #949494;
+  
+  }
+  .dmad p{
+    font-family:"Droid Serif", serif; 
+  font-size: 13px;
+  font-weight: 400;
+  text-align: left;
+  color: #949494;
+  
+  }
+  .dmad span{
+    font-family:"Droid Serif", serif; 
+    font-size: 16px;
+    color:#57C200 ;
+    
+  }
+  .dmad strong p{
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .dmmedia h4{
+    font-family: "Alexandria", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #949494;
+  
+  }
+  .dmmedia p{
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    color: #949494;
+    
+  
+  }
+  .dmmedia p span{
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .dmedbot p {
+    text-align: end;
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    font-style: italic;
+    color: #949494;
+  
+  }
+  .dmedbot p span{
+    text-align: end;
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    font-weight: 400;
+    font-style: italic;
+    color: #949494;
+  
+  }
+  .aboutpic img {
+    gap: 40px;
+    
+  }
+  .icon-container i {
+    font-size: 30px;
+    padding: 20px;
+  }
+.neww p{
+    text-align: left;
+}
+.newwinput button{
+    text-align: end;
+    background-color: #4CC203;
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    color: white;
+    margin-right: 80px;
+}  
+.contactcontainer{
+    padding: 0px 190px;
+    background-color: #171618;
+}
+.nweicon h3{
+    font-family: "Alexandria", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+
+}
+.nweicon i{
+    font-size: 32px;
+    color: white;
+}
+.neww  p{
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    color: white;
+    font-weight: 400;
+    text-align: left;
+
+}
+.reach p{
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    color: white;
+    font-weight: 400;
+    text-align: left;
+    
+}
+.reach h6{
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    color: white;
+    font-weight: 400;
+
+}
+.reach h6 span{
+    color: #4CC203;
+}
+.social p{
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    color: white;
+    text-align: left;
+
+}
+.sociallink li i {
+    color:#b9b9ba ;
+    
+}
+.sociallink li {
+    float: inline-start;
+    margin: 0 8px 0 0;
+    
+}
+.colinkcontainer{
+    background-color: #171618;
+}
+.colink{
+    padding: 0px 10px;
+    border-bottom: #2e2e2f solid 1px ;
+}
+.colinkbody  a {
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    color:#6f6f6f ;
+    font-weight: 400;
+    text-decoration: none;
+    padding: 0px 10px;
+    border-right: #2e2e2f solid 1px;
+    
+
+}
+.allrightContainer{
+    background-color: #171618;
+    padding: 20px;
+
+}
+.allrightbody h5{
+    font-family:"Droid Serif", serif; 
+    font-size: 13px;
+    color:#6f6f6f ;
+    font-weight: 400;
+    padding: 20px;
+
+}
+.webslidecontainer{
+    background-color: #EBEBEB;
+    padding: 50px 200px;
+}
+.web p{
+    font-family:"Droid Serif", serif; 
+    font-size: 16px;
+    color:#6f6f6f;
+
+}
+.icon-bar {
+    background-color: #000000; /* Slightly lighter background for the bar */
+    padding: 10px 0;
+  }
+  .icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .icon-container i {
+    font-size: 2rem;
+    margin: 0 15px;
+    color: #888; /* Gray color for icons */
+    transition: color 0.3s;
+  }
+  .icon-container i:hover {
+    color: #5cb85c; /* Green on hover */
+  }
+  .icon-container i.active {
+    color: #5cb85c; /* Active icon color */
+  }
+.profession {
+    /* margin-right: 400px; */
+}  
+.heroContainer{
+    background-color: #57c200;
+    padding: 20px;
+}
+
+.profession h1{
+    font-family: "Alexandria", sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    color: white;
+
+}
+.profession button{
+    font-family: "Alexandria", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    background-color:#f1d9a1;
+}
+.profession button :hover{
+    background-color:#f1d9a1;
+
+}
+.navbar{
+    background-color: #000000;
+}
+.navbar-nav .nav-link {
+    font-family: "Alexandria", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+
+}
+.navbar-nav a  i{
+  color:#81d82a ;
+}
+.navbar-brand{
+  width: 20%;
+}
+@media(max-width:576px){
+    .aboutContainer{
+        background-color: #EBEBEB;
+        padding: 0px 0px;
+    }
+    .contactcontainer{
+        padding: 0px 0px;
+        background-color: #171618;
+    }
+    .webslidecontainer{
+        background-color: #EBEBEB;
+        padding: 20px 0px;
+        display: none;
+    }
+    .new{
+      display: flex;
+      flex-direction: column;
+    }
+    .new img{
+      display: none;
+    }
+  
+    .herojum{
+      padding-bottom: 20px;
+      padding: 30px;
+    }
+    .profession h1{
+      font-family: "Alexandria", sans-serif;
+      font-size: 40px;
+      font-weight: 400;
+      color: white;
+      text-align: center;
+  
+  }
+  .profession button{
+      font-family: "Alexandria", sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      background-color:#f1d9a1;
+      text-align: center;
+      margin-left: 110px;
+  }
+  .herimgg{
+    display: none;
+  }
+  .webslidecontainer{
+    background-color: #EBEBEB;
+    padding: 0px 0px;
+}
+.sociallink li{
+  text-align: center;
+  float: none;
+    margin: 0 0px 0 0;
+
+}
+.colink{
+  padding: 0px 20px;
+  border-bottom: #2e2e2f solid 1px ;
+}
+.neww p{
+  text-align: center;
+}
+.newwinput button{
+  text-align: center;
+  background-color: #4CC203;
+  font-family:"Droid Serif", serif; 
+  font-size: 13px;
+  color: white;
+  margin-right: 0px;
+} 
+.ccd{
+  display: flex;
+  flex-direction: column;
+} 
+.nweicon {
+  padding: 0px 20px;
+}
+.contactcontainer{
+  padding: 30px 30px;
+  background-color: #171618;
+}
+.newwinput{
+  text-align: center;
+  padding: 5px;
+}
+.navbar-brand{
+  width: 70%;
+  
+}
+.navbar img{
+  text-align: start;
+  height: 100px;
+}
+.icon-container i {
+  font-size: 2rem;
+  margin: 0 0px;
+  color: #888; /* Gray color for icons */
+  transition: color 0.3s;
+}
+
+}
+
+
